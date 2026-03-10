@@ -3,20 +3,17 @@
 </div>  
   
 
-### <div align="center">Hi 👋 I’m Himanshi Patel, a full-time full-stack developer 👩‍💻
-Working professionally since 2020 🚀  I build modern web applications and backend systems, with a growing focus on AI/ML, computer vision, and production-ready deployments.</div>  
-  
+## About Me
 
-- 🌱 Currently learning and exploring Generative AI, Agentic AI, and Data Science.
-  
-  
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in building intelligent and scalable AI-driven solutions.
 
-- ❓ Ask me about MERN stack, full-stack development, and integrating AI/ML into web applications.
-  
-  
+🧠 Currently working on Multimodal AI systems and intelligent applications that integrate text, vision, and audio for real-world problem solving.
 
-<br/>  
+🌱 Actively exploring Generative AI, Large Language Models (LLMs), and Agentic AI architectures to develop next-generation AI systems.
 
+📊 Strong believer in data-driven decision making, leveraging analytics and machine learning to extract meaningful insights from complex data.
+
+⚡ Continuously learning and experimenting with advanced AI technologies, modern software engineering practices, and scalable system design.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -90,38 +87,11 @@ Working professionally since 2020 🚀  I build modern web applications and back
 <br/>  
 
 
-## Connect with me  
-<div align="center">
+## 🤝 Connect With Me
+
 <a href="https://www.linkedin.com/in/himanshipatel080503/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=himanshi85&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
