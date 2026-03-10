@@ -1,3 +1,7 @@
+<h1 align="center"><b>Hi 👋 I'm Himanshi Patel</b></h1>
+<h3 align="center">Software Engineer | AI/ML Developer | Data Analytics</h3>
+
+
 ## About Me
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in building intelligent and scalable AI-driven solutions.
