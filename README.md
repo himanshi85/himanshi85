@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ## About Me
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in building intelligent and scalable AI-driven solutions.
