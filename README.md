@@ -92,7 +92,7 @@ Working professionally since 2020 🚀  I build modern web applications and back
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/himanshipatel080503" target="_blank">
+<a href="https://www.linkedin.com/in/himanshipatel080503/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -101,10 +101,7 @@ Working professionally since 2020 🚀  I build modern web applications and back
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=himanshi85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
 ## Recent Blog Posts  
